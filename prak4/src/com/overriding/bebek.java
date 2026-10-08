@@ -5,4 +5,4 @@ public class bebek extends hewan {
     void suara() {
     System.out.println("bebek berkata: quack quack");
 }
-}
+}   
